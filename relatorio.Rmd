@@ -1,0 +1,51 @@
+---
+title: "R Ladies Niterói - Projeto de Extensão"
+subtitle: "Universidade Federal Fluminense"
+author: "Julia Hellen Franco Ferreira"
+date: "Matricula: 217054069 - Estatística"
+output: pdf_document
+---
+
+## Apresentação
+
+O R Ladies é uma organização mundial cuja missão é promover a diversidade de gênero na comunidade da linguagem R [1].  O propósito do R Ladies Niterói é inserir mais mulheres na cidade de Niterói com idades variadas e diversas áreas profissionais a programarem em R.  Este incentivo é dado através de encontros regulares como palestras e minicursos. Os eventos organizados são gratuitos e aberto ao público. 
+
+
+## Relatório
+
+No mês de fevereiro, tivemos um capítulo do R Ladies Niterói, que foi realizado na Universidade Federal Fluminense no campus da Praia Vermelha. O tema apresentando *“Exercitando o R Commander”*. Todo material foi elaborado com um banco de dados criado com as informações do Coeficiente de Rendimento (CR) dos cursos da universidade [2]. Durante o capítulo, apresentei análises estatísticas utilizando somente o R Commander.
+
+Em maio, as R Ladies Niterói participaram do Seminário Internacional de Estatística com R (SER) [3]. No qual, falei sobre o projeto e seu desenvolvimento no ano de 2018. Neste capítulo, recebemos a presença das R Ladies de São Paulo, que ministraram um minicurso entitulado *“Comunicando seus resultados: criando apresentações com R"*. Durante o evento pude conhecer profissionais de diversas áreas que utilizando o R para realizar suas análises estatísticas.
+
+Durante os meses de junho a agosto, participei de reuniões com o objetivo de fechar parcerias com outras instituições. O resultado foi que consegui um parceria com a Biblioteca Parque de Niterói [4] para administrar uma palestra e uma minicurso sobre a linguagem R. Além desta parceria, consegui a criação de um curso de R Básico que será ofertado na Plataforma Digital da Engenhoca[4]. Tudo será feito gratuitamente, aberto ao público e organizado pelas R Ladies Niterói.
+
+No mês de setembro, realizamos a parceria com a Biblioteca Parque de Niterói. A palestra *"Analisando as Bilheterias Mundiais do Cinema usando o R"*, no qual falamos de forma simples com usar o R para responder perguntas relacionadas ao cinema. O minicurso foi ofertado na semana seguinte e seu tema foi *"Introdução à linguagem R"*, nosso obejtivo foi ensinar o R para aquelas pessoas que ainda não conheciam o programa.
+
+Para finalizar, em outubro as R Ladies participaram da 11º Semana da Estatística da UFF. O trabalho foi apresentado na sessão postêr com o título *"R Ladies Niterói: Ensino da Linguagem R"*. O assunto abordado foi o aprendizado do R através de palestras e minicursos.
+
+## Considerações finais
+
+Após entrar no projeto, tive a chance de conhecer mais pessoas que usam o R de diversas formas e de outras áreas de atuação. Agora, estou lidando com responsabilidades que nunca tive antes e com isso eu pude ampliar meu olhar para além da academia. 
+
+O projeto tem um papel fundamental na minha carreira profissional e eu muito aprendo com os professores e os alunos que participam. E eu me dedico ao projeto 20 horas por semana. Com esse tempo, eu uso para aprender mais sobre o programa e criação de conteúdo para as palestras e minicursos
+.
+A curto prazo, percebi que desenvolvi muito na área de programação e passei a estudar muito mais. E a longo prazo, espero que eu enriqueça ainda mais meus conhecimentos e que eu possa passar adiante tudo que aprendi.
+
+
+## Referências
+
+[1] R-LADIES GLOBAL. R-Ladies Global: R-Ladies is a worldwide organization to promote gender diversity in the R community.  Disponível em:  https://rladies.org/ , 2019
+
+[2] Banco de dados - Cinema. Informações utilizadas durante a palestra. Disponível em: https://bit.ly/2ChBLa0, 2019
+
+[3] IV Seminário Internacional de Estatística com R. Disponível em:  https://ser2019.weebly.com/ , 2019
+
+[4] Biblioteca Parque de Niterói. Disponível em: https://www.facebook.com/bibliotecaniteroi/ , 2019
+
+[5] Plataforma Urbana Digital de Niterói. Disponível em:  https://plataformadigital.niteroi.br/ , 2019
+
+[6] 11º Semana da Estatística da UFF. Postêr disponível em: https://bit.ly/2NjLpzu , 2019
+
+[7] Meetup. Informações dos eventos. Disponível em: https://bit.ly/2Nkimvw , 2019
+
+
